@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<lessons>
+	<myns:TimeTable xmlns:myns ="http://www.itmo.ru/xml/lessons">
+		<myns:item>
+
+			<myns:namecourse>ООП и UML</myns:namecourse>
+			<myns:teacher>Осипов</myns:teacher>
+			<myns:lessonstime>18-30-21-50</myns:lessonstime>
+			<myns:DateStart>21.09.2020</myns:DateStart>
+			<myns:DateFinish>20.10.2020</myns:DateFinish>
+			<myns:namecourse>C#</myns:namecourse>
+			<myns:teacher>Осипов</myns:teacher>
+			<myns:lessonstime>18-30-21-50</myns:lessonstime>
+			<myns:DateStart>21.10.2020</myns:DateStart>
+			<myns:DateFinish>15.11.2020</myns:DateFinish>
+			<myns:namecourse>Введение в БД</myns:namecourse>
+			<myns:teacher>Осетрова</myns:teacher>
+			<myns:lessonstime>18-30-21-50</myns:lessonstime>
+			<myns:DateStart>16.11.2020</myns:DateStart>
+			<myns:DateFinish>28.11.2020</myns:DateFinish>
+			<myns:namecourse>WindowsForms</myns:namecourse>
+			<myns:teacher>Смолянинов</myns:teacher>
+			<myns:lessonstime>18-30-21-50</myns:lessonstime>
+			<myns:DateStart>29.11.2020</myns:DateStart>
+			<myns:DateFinish>17.12.2020</myns:DateFinish>
+		</myns:item>
+	</myns:TimeTable>
+	<myns:Sources xmlns:myns="http://www.itmo.ru">
+		<book id="bk101">
+			<author>Gambardella, Matthew</author>
+			<title>XML Developer's Guide</title>
+			<genre>Computer</genre>
+		</book>
+		<book id="bk102">
+			<author>Andersen, Kris</author>
+			<title>Base of WPF</title>
+			<genre>Computer</genre>
+		</book>
+		<book id="bk103">
+			<author>Flenov, Mickhail</author>
+			<title>Bible of C#</title>
+			<genre>Computer</genre>
+		</book>
+		<book id="bk104">
+			<author>Buili, Alan</author>
+			<title>Learning SQL</title>
+			<genre>Computer</genre>
+		</book>
+	</myns:Sources>
+</lessons>
